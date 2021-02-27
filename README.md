@@ -5,6 +5,7 @@
 [![Build Status](https://jenkins-docs.stg.tizen.org/buildStatus/icon?job=STG_docs_PR_builder&subject=master%20build)](https://jenkins-docs.stg.tizen.org/job/STG_docs_PR_builder/)
 [![Build Status](https://jenkins-docs.stg.tizen.org/buildStatus/icon?job=PRD_docs&subject=live%20build)](https://jenkins-docs.stg.tizen.org/job/PRD_docs/)
 ![Repository Size](https://img.shields.io/github/repo-size/Samsung/tizen-docs)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsooothooot%2Ftizen-docs.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsooothooot%2Ftizen-docs?ref=badge_shield)
 
 This repo contains Tizen documents for platform and application developers. 
 
@@ -58,3 +59,6 @@ Please see the [**Headings style**](./styleguide/style.md#headings).
 ## License
 
 The Tizen documents in this project are licensed under the [Creative Commons Attribution 3.0](http://creativecommons.org/licenses/by/3.0/) License and the Code Examples are under the [BSD-3-Clause License](https://www.tizen.org/bsd-3-clause-license). See [Content License](content-license.md) for more details.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsooothooot%2Ftizen-docs.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsooothooot%2Ftizen-docs?ref=badge_large)
